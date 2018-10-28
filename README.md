@@ -6,7 +6,7 @@ Also, It lets manager control inventory by adding items to inventory and adding 
 <h2> How does it work ? </h2>
 <h4> The node app communicates with the MySQL database and displays results of user input based on the information initially set up by administrator. The user gets a shopping list and chooses items by ID. The app returns message based on the inventory information from the database. </h4>
 
-<h3> A demo video is availabe for download through the link below. </h3>
+<h3> A demo video is availabe for download through links below. </h3>
 
 <h4> Customer version </h4> https://github.com/DavidDemian/mysql/blob/master/customer.mov
 <h4> Manager version </h4> https://github.com/DavidDemian/mysql/blob/master/manager.mov
