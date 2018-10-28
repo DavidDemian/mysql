@@ -8,3 +8,4 @@ Also, It lets manager control inventory by adding items to inventory and adding 
 
 <h3> A demo video is availabe for download through the link below. </h3>
 
+<h4> Customer version </h4> https://github.com/DavidDemian/mysql/blob/master/customer.mov
